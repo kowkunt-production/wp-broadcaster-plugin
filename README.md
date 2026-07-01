@@ -47,8 +47,7 @@ The free tier acts as a lead generation tool, while the paid tier delivers recur
 **Why It Wins**
 The addressable market is massive—WordPress powers over 40% of the web. Site owners already pay for tools that save time and increase visibility. WP Broadcaster bundles social automation and SEO enhancement into one lightweight solution, replacing multiple point solutions. Low overhead, recurring revenue, and a clear path from free to paid make this a capital-efficient investment.
 
-**The Ask**
-We are seeking investment to accelerate development, grow the user base, and capture market share in the underserved WordPress automation space before competitors consolidate these features.
+
 
 
 
